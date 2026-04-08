@@ -1,5 +1,5 @@
 // REEMPLAZA ESTA URL CON LA TUYA DE GOOGLE APPS SCRIPT
-const URL_GOOGLE = "https://script.google.com/macros/s/AKfycbzFBPVkD-qnmzk_B5VK7GnfZDWHyymyBrx60Bz3La147ZqeOZ1nVx-Suin8q3FiaAqJqA/exec"; 
+const URL_GOOGLE = "https://script.google.com/macros/s/AKfycbwaOlN1Alza9Ka5_e7S1Hq2itAXFEnR3aui5p33x7wxv30Gl-s7aQFEltm1dm0VbFURXA/exec"; 
 
 async function enviarAlPadron() {
     const btn = document.getElementById('btnGuardar');
